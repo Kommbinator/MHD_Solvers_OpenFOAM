@@ -1,3 +1,0 @@
-immiscibleIncompressibleTwoPhaseMhdMixture.C
-
-LIB = $(FOAM_USER_LIBBIN)/libimmiscibleIncompressibleTwoPhaseMhdMixture
