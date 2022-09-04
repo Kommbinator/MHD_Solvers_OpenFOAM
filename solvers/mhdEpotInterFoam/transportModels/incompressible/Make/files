@@ -1,0 +1,3 @@
+incompressibleTwoPhaseMhdMixture/incompressibleTwoPhaseMhdMixture.C
+
+LIB = $(FOAM_USER_LIBBIN)/libincompressibleTransportMhdModels
