@@ -1,0 +1,5 @@
+SOURCE = \
+fluid/incompressibleCourantNo.C \
+mhdEpotMultiRegionFoam.C \
+
+# sources
