@@ -1,3 +1,0 @@
-heatTransferFvPatchScalarField.C
-
-LIB = $(FOAM_USER_LIBBIN)/heatTransfer45

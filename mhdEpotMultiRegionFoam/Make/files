@@ -1,4 +1,0 @@
-fluid/incompressibleCourantNo.C
-mhdEpotMultiRegionFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/mhdEpotMultiRegionFoam
