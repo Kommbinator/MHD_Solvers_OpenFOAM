@@ -1,1 +1,1 @@
-# MHD_Codes_OpenFOAM
+# MHD_Solvers_OpenFOAM
