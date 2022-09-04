@@ -1,5 +1,0 @@
-SOURCE = \
-fluid/incompressibleCourantNo.C \
-mhdEpotMultiRegionInterFoam.C \
-
-# sources

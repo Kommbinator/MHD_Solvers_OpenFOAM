@@ -1,4 +1,0 @@
-SOURCE = \
-incompressibleTwoPhaseMhdMixture/incompressibleTwoPhaseMhdMixture.C \
-
-# sources
