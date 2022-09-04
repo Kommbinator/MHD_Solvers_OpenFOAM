@@ -1,0 +1,4 @@
+fluid/incompressibleCourantNo.C
+mhdEpotMultiRegionInterFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/mhdEpotMultiRegionInterFoam
