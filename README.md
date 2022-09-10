@@ -1,7 +1,8 @@
 # MHD_Solvers_OpenFOAM
 
-This repository contains OpenFOAM solvers and turbulence models suitable for solving various magnetohydrodynamic (MHD) flows.
-The solvers work with OpenFOAM v2006+.  
+This repository contains OpenFOAM solvers and turbulence models suitable for solving various magnetohydrodynamic (MHD) flows.  
+Please keep in mind that these solvers work only for so-called one-way MHD (the magnetic Reynolds number Re_m < 1).
+The presented solvers and models work with OpenFOAM v2006+.  
 Multiple sources were used to implement these codes. Specifically, a lot of useful information was found on https://www.cfd-online.com/
 
 Validation of the solvers has been conducted and published as a [benchmark](https://doi.org/10.1016/j.ijheatfluidflow.2021.108800):  
