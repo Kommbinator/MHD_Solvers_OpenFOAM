@@ -1,4 +1,0 @@
-SOURCE = \
-mhdEpotBuoyantBoussinesqPimpleFoam.C \
-
-# sources
