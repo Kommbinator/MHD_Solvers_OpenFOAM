@@ -7,4 +7,4 @@ sigma = electrical conductivity
 solid_characteristc_scale = thickness of the solid wall
 fluid_characteristc_scale = width of the fluid domain
 
-Please adjust numerical settings and time scale.
+Please adjust numerical settings and the time step.
